@@ -7,6 +7,7 @@ public class Test {
 
         System.out.println(isEven(10));
         System.out.println(isEven(15));
+        System.out.println(isEven(100));
     }
 
     public static int add(int a, int b) {
